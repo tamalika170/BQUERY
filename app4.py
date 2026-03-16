@@ -347,7 +347,7 @@ def generate_pdf(question: str, insight: str, accuracy: dict,
 # -----------------------
 # TITLE
 # -----------------------
-st.markdown('<div class="dash-title">AI BUSINESS INTELLIGENCE</div>', unsafe_allow_html=True)
+st.markdown('<div class="dash-title">BQUERY</div>', unsafe_allow_html=True)
 st.markdown('<div class="dash-sub">CONVERSATIONAL DATA ANALYTICS PLATFORM</div>', unsafe_allow_html=True)
 
 # -----------------------
